@@ -9,7 +9,7 @@
 
 ## Payment-Management-System (PMS)
 
-Payment Management System (PMS) is a web app that we wanted to create to further practice our skills while helping anyone has a small business and manage their employee's hours and pay for the pay period. Below is a list of what we are wanting to have incorporated within the app.
+Payment Management System (PMS) is a web app that we wanted to create to further practice our skills while helping anyone who has a small business and manage their employee's hours and pay for the pay period. Below is a list of what we are wanting to have incorporated within the app.
 
 - Landing Page
   - (About me)(PMS) is a managment system for Employers to keep track of their employees hours and rate for each pay period with customizable dynamic data.
